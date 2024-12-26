@@ -1,0 +1,37 @@
+#header{
+  width: 100%;
+  height: 100px;
+  background: #0D92F4;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 3px;
+}
+#header img{
+  width: 122px;
+  height: 50px;
+}
+#header ul,li,a{
+  font-family: "Poppins", serif;
+  color: #FFFFFF;
+  font-weight: 500;
+  line-height: 30.8px;
+  font-size: 22px;
+  display: inline;
+  text-decoration: none;
+  padding: 10px;
+}
+#header button{
+  width: 131px;
+  height: 41px;
+  background: #F95454;
+  font-family: "Poppins", serif;
+  line-height: 30.8px;
+  font-weight: 500;
+  font-size: 22px;
+  border-radius: 4px;
+  border: 2px solid #F95454;
+  color: #FFFFFF;
+  cursor: pointer;
+}

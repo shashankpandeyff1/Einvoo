@@ -1,0 +1,13 @@
+.con button{
+  /*width: 340px;
+  height: 48px;
+  border-radius: 10px;
+  border: 1px solid darkgrey;
+  font-family: arial;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 19.6px;
+  overflow: hidden;
+  background: none;
+  */
+}
